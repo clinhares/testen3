@@ -1,0 +1,11 @@
+C:\Users\AZtecaBR\Desktop\n3\gitteste\bin\Debug\netcoreapp2.1\gitteste.deps.json
+C:\Users\AZtecaBR\Desktop\n3\gitteste\bin\Debug\netcoreapp2.1\gitteste.runtimeconfig.json
+C:\Users\AZtecaBR\Desktop\n3\gitteste\bin\Debug\netcoreapp2.1\gitteste.runtimeconfig.dev.json
+C:\Users\AZtecaBR\Desktop\n3\gitteste\bin\Debug\netcoreapp2.1\gitteste.dll
+C:\Users\AZtecaBR\Desktop\n3\gitteste\bin\Debug\netcoreapp2.1\gitteste.pdb
+C:\Users\AZtecaBR\Desktop\n3\gitteste\obj\Debug\netcoreapp2.1\gitteste.csprojAssemblyReference.cache
+C:\Users\AZtecaBR\Desktop\n3\gitteste\obj\Debug\netcoreapp2.1\gitteste.csproj.CoreCompileInputs.cache
+C:\Users\AZtecaBR\Desktop\n3\gitteste\obj\Debug\netcoreapp2.1\gitteste.AssemblyInfoInputs.cache
+C:\Users\AZtecaBR\Desktop\n3\gitteste\obj\Debug\netcoreapp2.1\gitteste.AssemblyInfo.cs
+C:\Users\AZtecaBR\Desktop\n3\gitteste\obj\Debug\netcoreapp2.1\gitteste.dll
+C:\Users\AZtecaBR\Desktop\n3\gitteste\obj\Debug\netcoreapp2.1\gitteste.pdb
